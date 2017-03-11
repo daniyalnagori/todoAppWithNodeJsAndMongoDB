@@ -2,7 +2,7 @@ var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 
 //connect to the database
-mongoose.connect("mongodb://test:test@ds127730.mlab.com:27730/todo")
+// mongoose.connect("mongodb://test:test@ds127730.mlab.com:27730/todo")
 
 //create a schema - this is like a blueprint
 
